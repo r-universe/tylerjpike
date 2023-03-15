@@ -1,10 +1,10 @@
 [
   {
-    "package": "OOS",
+    "package": "sovereign",
     "oncran": true
   },
   {
-    "package": "sovereign",
+    "package": "OOS",
     "oncran": true
   }
 ]
